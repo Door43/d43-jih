@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jih:home|Door43 (jih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jih|d43-jih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jih/archive/master.zip|d43-jih.zip]]
+
+**Recent Changes**
+{{changes>ns = jih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jih|Ethnologue data]]
+
